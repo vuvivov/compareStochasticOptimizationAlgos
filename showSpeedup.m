@@ -1,0 +1,1 @@
+squeeze(summarySur(2,2,:,:))'
